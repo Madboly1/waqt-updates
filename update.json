@@ -1,0 +1,45 @@
+{
+  "app": "WAQT",
+  "schemaVersion": 4,
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "updateMessage": "تحديث جديد متاح لتطبيق وَقْت ✨",
+  "apkDownloadUrl": "",
+  "settings": {
+    "pref_dark_mode": true,
+    "pref_accent_color": "#FF8A3D",
+    "pref_default_focus_mins": 25,
+    "pref_default_break_mins": 5,
+    "pref_daily_focus_goal_mins": 120,
+    "pref_notif_tasks": true,
+    "pref_notif_habits": true
+  },
+  "customQuotes": [
+    "وقتك هو رأس مالك الحقيقي.. استثمره صح ✨",
+    "خطوة صغيرة كل يوم تصنع فرق كبير آخر الشهر 🔥",
+    "التركيز مش إنك تقول أيوة لحاجات كتير، التركيز إنك تقول لأ للي يشتتك 🎯",
+    "ابدأ بأصعب مهمة في يومك وهتلاقي باقي اليوم ماشي لوحده 💪"
+  ],
+  "habitCategories": [
+    {
+      "id": "cat_health",
+      "name": "صحة ولياقة 💪",
+      "color": "#30D158"
+    },
+    {
+      "id": "cat_study",
+      "name": "مذاكرة وتطوير 📚",
+      "color": "#0A84FF"
+    },
+    {
+      "id": "cat_worship",
+      "name": "عبادات وروحانيات 🕌",
+      "color": "#FFD60A"
+    },
+    {
+      "id": "cat_work",
+      "name": "شغل وإنتاجية 💼",
+      "color": "#FF8A3D"
+    }
+  ]
+}
