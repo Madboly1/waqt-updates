@@ -1,10 +1,10 @@
 {
   "app": "WAQT",
   "schemaVersion": 4,
-  "versionCode": 47,
-  "versionName": "5.6.21",
+  "versionCode": 48,
+  "versionName": "5.6.22",
   "updateMessage": "تحديث جديد متاح لتطبيق وَقْت ✨",
-  "apkDownloadUrl": "https://github.com/Madboly1/waqt/releases/download/v5.6.21/app-release.apk",
+  "apkDownloadUrl": "https://github.com/Madboly1/waqt/releases/download/v5.6.22/app-release.apk",
   "settings": {
     "pref_dark_mode": true,
     "pref_accent_color": "#FF8A3D",
