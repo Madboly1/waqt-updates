@@ -1,10 +1,10 @@
 {
   "app": "WAQT",
   "schemaVersion": 4,
-  "versionCode": 59,
-  "versionName": "5.6.33",
+  "versionCode": 60,
+  "versionName": "5.6.34",
   "updateMessage": "تحديث جديد متاح لتطبيق وَقْت ✨",
-  "apkDownloadUrl": "https://github.com/Madboly1/waqt/releases/download/v5.6.33/app-release.apk",
+  "apkDownloadUrl": "https://github.com/Madboly1/waqt/releases/download/v5.6.34/app-release.apk",
   "settings": {
     "pref_dark_mode": true,
     "pref_accent_color": "#FF8A3D",
